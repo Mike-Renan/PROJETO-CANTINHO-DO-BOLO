@@ -1,6 +1,6 @@
 # 🍰 Cantinho do Bolo
 
-Site institucional desenvolvido como projeto **freelancer** para o **Cantinho do Bolo**, uma charmosa loja de bolos caseiros localizada em Ubatuba/SP. O objetivo foi criar uma presença digital simples, acolhedora e eficiente para destacar os produtos, atrair clientes e facilitar o contato direto com a loja.
+Site desenvolvido como projeto **freelancer** para o **Cantinho do Bolo**, uma charmosa loja de bolos caseiros localizada em Ubatuba/SP. O objetivo foi criar uma presença digital simples, acolhedora e eficiente para destacar os produtos, atrair clientes e facilitar o contato direto com a loja.
 
 ## 💼 Projeto Freelancer
 
